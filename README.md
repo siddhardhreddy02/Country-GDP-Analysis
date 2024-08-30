@@ -1,0 +1,1 @@
+The Country GDP Analysis Project is designed to provide insights into the Gross Domestic Product (GDP) of various countries over time. This project leverages Python's powerful data manipulation and visualization libraries, such as Pandas and Seaborn, to conduct a comprehensive analysis.
